@@ -1,1 +1,1 @@
-# Vote-Friends in Python 
+# a Python program
